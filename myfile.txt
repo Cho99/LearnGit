@@ -1,6 +1,12 @@
 Dog
 Dog 1
+
 Dog 2
 Da Thay doi Bang lenh git commit --amend
 Dog 3
+
+
+Dog 2
+
 Dog 4g
+
