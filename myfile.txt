@@ -1,9 +1,5 @@
 Dog
 Dog 1
-<<<<<<< HEAD
 Dog 2
 Da Thay doi Bang lenh git commit --amend
 Dog 3
-=======
-Dog 2
->>>>>>> ce0d5138368a0a3701f8bb8eaf1e7d4e7c8f8b43
